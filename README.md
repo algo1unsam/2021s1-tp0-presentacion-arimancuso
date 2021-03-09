@@ -1,6 +1,8 @@
 # Presentación
 
-## Estudiante: _COMPLETAR CON TU NOMBRE_
+## Estudiante: Ariana Mancuso
+
+Estudio programación en la Unsam. Hace poco empecé a trabajar en IT y no entiendo mucho 
 
 Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
 
