@@ -6,7 +6,7 @@ Estudio programación en la Unsam. Hace poco empecé a trabajar en IT y no entie
 
 ----
 
-![yo](yo.jpg)
+![yo](yo.jpeg)
 
 Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
 
